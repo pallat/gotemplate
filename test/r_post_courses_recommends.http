@@ -1,0 +1,7 @@
+POST http://localhost:9999/r/courses/recommends
+transaction-id: #####-#####
+
+{
+    "lang": "TH",
+    "currency": "THB"
+}

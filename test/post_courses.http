@@ -1,0 +1,6 @@
+POST http://localhost:9999/courses
+transaction-id: #####-#####
+
+{
+    "title": "GoLang"
+}
