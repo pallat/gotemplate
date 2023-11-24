@@ -2,6 +2,10 @@
 
 ## Usage
 
+```sh
+gonew github.com/pallat/gotemplate github.com/yourname/yourproject
+```
+
 ### single main.go
 
 ในกรณีที่มี main เดียว สามารถวาง `main.go` ไว้ที่ root project (ที่เดียวกับ go.mod)
